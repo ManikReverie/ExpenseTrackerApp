@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="total_expense_label">Total Spending</string>
+    <string name="add_expense_title">Add Expense</string>
+    <string name="edit_expense_title">Edit Expense</string>
+    <string name="title_hint">Expense Title (e.g., Grocery)</string>
+    <string name="amount_hint">Amount (₹)</string>
+    <string name="category_label">Select Category</string>
+    <string name="save_expense">Save Expense</string>
+    <string name="update_expense">Update Expense</string>
+    <string name="delete_expense">Delete Expense</string>
+    <string name="empty_expenses_msg">No expenses recorded yet.\nTap + to add your first expense!</string>
+    <string name="error_empty_title">Please enter a title</string>
+    <string name="error_invalid_amount">Please enter a valid amount greater than 0</string>
+    <string name="expense_saved">Expense saved successfully</string>
+    <string name="expense_updated">Expense updated successfully</string>
+    <string name="expense_deleted">Expense deleted successfully</string>
+
+    <string-array name="expense_categories">
+        <item>Food &amp; Dining</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Bills &amp; Utilities</item>
+        <item>Entertainment</item>
+        <item>Health &amp; Medical</item>
+        <item>Education</item>
+        <item>Travel</item>
+        <item>Other</item>
+    </string-array>
+</resources>
